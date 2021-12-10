@@ -12,7 +12,7 @@
 
 ## ⏲ What i am doing now:
 I'm developing a project for a few local companies.<br>
-I'm developing an app with my team <br>
+I'm developing a website + application for an online game <br>
 I also work as a Freelancer.
 
 <br/>
