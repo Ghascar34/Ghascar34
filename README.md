@@ -11,11 +11,11 @@
 
 
 ## ⏲ What i am doing now:
-I'm developing a project for a few local companies.
-I'm developing an app with my team
-I also work as a FreeLancer.
+I'm developing a project for a few local companies.<br>
+I'm developing an app with my team <br>
+I also work as a Freelancer.
 
-<br />
+<br/>
 
 ### 📩 Connect with me:
 
