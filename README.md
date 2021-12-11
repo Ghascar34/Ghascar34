@@ -1,4 +1,4 @@
-### Hi there, I'm Kerem - aka [Ghascar34]👋 
+### Hi there, I'm Kerem - aka [Ghascar]👋 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/gcZxPiUFzoHgA/giphy.gif" width="" height="" />
 
 ## I'm a Full Stack Developer
