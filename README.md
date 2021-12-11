@@ -13,7 +13,12 @@
 ## ⏲ What i am doing now:
 I'm developing a project for a few local companies.<br>
 I'm developing a website + application for an online game <br>
-I also work as a Freelancer.
+I also work as a Freelancer.<br>
+I am motivated by learning new skills because that means i am continually improving, and I am not sitting still.
+I enjoy the thrill of completing challenging tasks when i am under pressure,
+I also love giving good service to customers because it makes you feel proud that you've made a positive impact on their day.
+ I do like to think i am a highly self-motivated person and i never feel unhappy in my work. I believe it's up to me to make the most out of
+my time whlist i am at work!
 
 <br/>
 
