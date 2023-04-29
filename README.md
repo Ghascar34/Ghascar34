@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning
 - 👯 I’m looking to collaborate with other developers
 - 🤔 I’m looking for help with Flutter front-end developer
-- 🥅 2023 Goals: Working on Open Source Projects and learning artificial intelligence 🤖
+- 🥅 2024 Goals: Working on Open Source Projects and learning artificial intelligence 🤖
 - ⚡ Fun fact: I love to meditate, camping, play football. 
 
 
